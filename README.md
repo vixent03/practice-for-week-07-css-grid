@@ -32,9 +32,9 @@ and add styles with appropriate values per these requirements.
 
 * Display a grid that fills the full width of the page
 * In the grid, template three columns:
-  * First column uses 3/4 of the available width
+  * First column uses 3 fractions of the available width
   * Middle column matches the width of the content
-  * Third column uses 1/4 of the available width
+  * Third column uses 1 fraction of the available width
 * For the grid, specify these template areas:
   * First row is the `header` (across all 3 columns)
   * Second row has `main` on the left and `sidebar` on the right
