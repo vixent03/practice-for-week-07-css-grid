@@ -30,7 +30,7 @@ To begin any grid layout you need at least three properties on the **Grid
 Container**. In __main.css__, find the the `.grid-container` class selector,
 and add styles with appropriate values per these requirements.
 
-* Display a grid that fills the full width of the page
+* Display a grid that fills the full width of the pagee
 * In the grid, template three columns:
   * First column uses 3 fractions of the available width
   * Middle column matches the width of the content
